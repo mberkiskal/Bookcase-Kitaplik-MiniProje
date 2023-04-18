@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\bin\Debug\p24Kitaplik.exe.config
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\bin\Debug\p24Kitaplik.exe
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\bin\Debug\p24Kitaplik.pdb
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\obj\Debug\p24Kitaplik.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\obj\Debug\p24Kitaplik.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\obj\Debug\p24Kitaplik.Form1.resources
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\obj\Debug\p24Kitaplik.Properties.Resources.resources
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\obj\Debug\p24Kitaplik.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\obj\Debug\p24Kitaplik.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\obj\Debug\p24Kitaplik.exe
+C:\Users\mberk\source\repos\p24Kitaplik\p24Kitaplik\obj\Debug\p24Kitaplik.pdb
